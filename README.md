@@ -1,4 +1,4 @@
-#SAS4 Barotrauma Mod
+SAS4 Barotrauma Mod
 Мод добавляющий оружие из игры SAS4.
 Версия 1.0
 
